@@ -1,0 +1,23 @@
+Name :swswwsw
+Enrollment No :2014529
+Email ID :swsw@sws.cc
+Date of Birth :3232
+Category :GEN
+Gender :Female
+Physically Disabled :Yes
+Phd stream :Computer Science
+Class X Board :cdccd
+Class X Percent :22
+Class XII Board :lmklmlk
+Class XII Percent :22
+Graduation Degree :mkml
+Graduation Dept :mklmk
+Graduation State :---
+Graduation Percentage :38.0
+Graduation University :mlkmlkm
+Post Graduation Degree :null
+Post Graduation Dept :null
+Post Graduation State :null
+Post Graduation Percentage :null
+Post Graduation University :null
+Form Filled On :2015-12-02
